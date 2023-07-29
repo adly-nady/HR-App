@@ -1,0 +1,2 @@
+"php artisan vendor:publish --tag=laravel-pagination"        -:using for move files about pagination from vendor folder to my project to coustmising
+"php artisan make:controller ProductController -r"           -:using for create controller have miny function like (index,create,edit,update,distroy...)
